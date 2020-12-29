@@ -1,5 +1,5 @@
-# epidemiology_proj
-An analysis of NHANES 2007-2008 Consumer Behavior Data
+# About this project
+An analysis of NHANES 2007-2008 Consumer Behavior Data done for an epidemiology course at the UC Berkeley School of Public Health.
 
 Research question:  Among a nationally representative sample of adults in the United States, to what extent is the time it takes to travel to the grocery store associated with the frequency of cooking dinner at home?
 
